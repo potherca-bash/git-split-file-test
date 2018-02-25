@@ -1,5 +1,10 @@
-Winnie The Pooh 1/2 ALL CHAPTERS
-
+<!DOCTYPE html>
+<html>
+<head>
+<title>Winnie The Pooh 1/2 ALL CHAPTERS</title>
+</head>
+<body>
+<pre>
 CHAPTER I
 
 IN WHICH WE ARE INTRODUCED TO WINNIE-THE-POOH AND SOME BEES, AND THE
@@ -1252,3 +1257,6 @@ He gave a deep sigh, picked his bear up by the leg and walked off to the door, t
 "Was Pooh's pencil case any better than mine?"
 "It was just the same," I said.
 He nodded and went out . . . and in a moment I heard Winnie-the-Pooh--bump, bump, bump--going up the stairs behind him.
+</pre>
+</body>
+</html>
