@@ -1,0 +1,332 @@
+
+#                running git-split-file.sh
+#        for source file index.html
+#  with source directory result
+#    to target directory /home/ubuntu/workspace/test/git-split-file-test
+#   using split strategy DELETE
+
+
+=====> Creating separate branch to merge split files back into
+
+=====> Creating sub-branches
+-----> Creating separate branch to split file 'result/chapter-01.html'
+-----> Creating separate branch to split file 'result/chapter-02.html'
+-----> Creating separate branch to split file 'result/chapter-03.html'
+-----> Creating separate branch to split file 'result/chapter-04.html'
+-----> Creating separate branch to split file 'result/chapter-05.html'
+-----> Creating separate branch to split file 'result/chapter-06.html'
+-----> Creating separate branch to split file 'result/chapter-07.html'
+-----> Creating separate branch to split file 'result/chapter-08.html'
+-----> Creating separate branch to split file 'result/chapter-09.html'
+-----> Creating separate branch to split file 'result/chapter-10.html'
+-----> Creating separate branch to split file 'result/index.html'
+
+=====> Running split processing for file 'result/chapter-01.html'
+-----> Switching to split branch
+-----> Creating separate file for 'chapter-01.html'
+-----> Creating commit
+[split-file_index.html_chapter-01.html] Adds separate file for 'chapter-01.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename index.html => chapter-01.html (100%)
+-----> Writing content to target file 'chapter-01.html'
+-----> Creating commit
+[split-file_index.html_chapter-01.html] Changes content in separated file 'chapter-01.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 155 insertions(+), 1301 deletions(-)
+ rewrite chapter-01.html (90%)
+
+=====> Running split processing for file 'result/chapter-02.html'
+-----> Switching to split branch
+-----> Creating separate file for 'chapter-02.html'
+-----> Creating commit
+[split-file_index.html_chapter-02.html] Adds separate file for 'chapter-02.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename index.html => chapter-02.html (100%)
+-----> Writing content to target file 'chapter-02.html'
+-----> Creating commit
+[split-file_index.html_chapter-02.html] Changes content in separated file 'chapter-02.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 102 insertions(+), 1301 deletions(-)
+ rewrite chapter-02.html (93%)
+
+=====> Running split processing for file 'result/chapter-03.html'
+-----> Switching to split branch
+-----> Creating separate file for 'chapter-03.html'
+-----> Creating commit
+[split-file_index.html_chapter-03.html] Adds separate file for 'chapter-03.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename index.html => chapter-03.html (100%)
+-----> Writing content to target file 'chapter-03.html'
+-----> Creating commit
+[split-file_index.html_chapter-03.html] Changes content in separated file 'chapter-03.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 65 insertions(+), 1301 deletions(-)
+ rewrite chapter-03.html (94%)
+
+=====> Running split processing for file 'result/chapter-04.html'
+-----> Switching to split branch
+-----> Creating separate file for 'chapter-04.html'
+-----> Creating commit
+[split-file_index.html_chapter-04.html] Adds separate file for 'chapter-04.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename index.html => chapter-04.html (100%)
+-----> Writing content to target file 'chapter-04.html'
+-----> Creating commit
+[split-file_index.html_chapter-04.html] Changes content in separated file 'chapter-04.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 84 insertions(+), 1301 deletions(-)
+ rewrite chapter-04.html (93%)
+
+=====> Running split processing for file 'result/chapter-05.html'
+-----> Switching to split branch
+-----> Creating separate file for 'chapter-05.html'
+-----> Creating commit
+[split-file_index.html_chapter-05.html] Adds separate file for 'chapter-05.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename index.html => chapter-05.html (100%)
+-----> Writing content to target file 'chapter-05.html'
+-----> Creating commit
+[split-file_index.html_chapter-05.html] Changes content in separated file 'chapter-05.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 113 insertions(+), 1301 deletions(-)
+ rewrite chapter-05.html (88%)
+
+=====> Running split processing for file 'result/chapter-06.html'
+-----> Switching to split branch
+-----> Creating separate file for 'chapter-06.html'
+-----> Creating commit
+[split-file_index.html_chapter-06.html] Adds separate file for 'chapter-06.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename index.html => chapter-06.html (100%)
+-----> Writing content to target file 'chapter-06.html'
+-----> Creating commit
+[split-file_index.html_chapter-06.html] Changes content in separated file 'chapter-06.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 204 insertions(+), 1301 deletions(-)
+ rewrite chapter-06.html (87%)
+
+=====> Running split processing for file 'result/chapter-07.html'
+-----> Switching to split branch
+-----> Creating separate file for 'chapter-07.html'
+-----> Creating commit
+[split-file_index.html_chapter-07.html] Adds separate file for 'chapter-07.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename index.html => chapter-07.html (100%)
+-----> Writing content to target file 'chapter-07.html'
+-----> Creating commit
+[split-file_index.html_chapter-07.html] Changes content in separated file 'chapter-07.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 206 insertions(+), 1301 deletions(-)
+ rewrite chapter-07.html (86%)
+
+=====> Running split processing for file 'result/chapter-08.html'
+-----> Switching to split branch
+-----> Creating separate file for 'chapter-08.html'
+-----> Creating commit
+[split-file_index.html_chapter-08.html] Adds separate file for 'chapter-08.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename index.html => chapter-08.html (100%)
+-----> Writing content to target file 'chapter-08.html'
+-----> Creating commit
+[split-file_index.html_chapter-08.html] Changes content in separated file 'chapter-08.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 200 insertions(+), 1301 deletions(-)
+ rewrite chapter-08.html (86%)
+
+=====> Running split processing for file 'result/chapter-09.html'
+-----> Switching to split branch
+-----> Creating separate file for 'chapter-09.html'
+-----> Creating commit
+[split-file_index.html_chapter-09.html] Adds separate file for 'chapter-09.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename index.html => chapter-09.html (100%)
+-----> Writing content to target file 'chapter-09.html'
+-----> Creating commit
+[split-file_index.html_chapter-09.html] Changes content in separated file 'chapter-09.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 111 insertions(+), 1301 deletions(-)
+ rewrite chapter-09.html (88%)
+
+=====> Running split processing for file 'result/chapter-10.html'
+-----> Switching to split branch
+-----> Creating separate file for 'chapter-10.html'
+-----> Creating commit
+[split-file_index.html_chapter-10.html] Adds separate file for 'chapter-10.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename index.html => chapter-10.html (100%)
+-----> Writing content to target file 'chapter-10.html'
+-----> Creating commit
+[split-file_index.html_chapter-10.html] Changes content in separated file 'chapter-10.html'.
+ Author: Potherca-Bot <potherca+bot@gmail.com>
+ 1 file changed, 142 insertions(+), 1301 deletions(-)
+ rewrite chapter-10.html (91%)
+
+=====> Skipping source file 'index.html'
+
+=====> Merging all the split branches into the source branch
+-----> Switching to source branch
+
+=====> Running merge processing for file 'result/chapter-01.html'
+
+=====> Merging branch 'split-file_index.html_chapter-01.html' back into 'split-file_index.html'
+-----> Branch 'split-file_index.html_chapter-01.html' exists
+Removing index.html
+Merge made by the 'recursive' strategy.
+ chapter-01.html |  155 +++++++
+ index.html      | 1301 -------------------------------------------------------
+ 2 files changed, 155 insertions(+), 1301 deletions(-)
+ create mode 100644 chapter-01.html
+ delete mode 100644 index.html
+-----> No merge conflict
+
+=====> Running merge processing for file 'result/chapter-02.html'
+
+=====> Merging branch 'split-file_index.html_chapter-02.html' back into 'split-file_index.html'
+-----> Branch 'split-file_index.html_chapter-02.html' exists
+Merge made by the 'recursive' strategy.
+ chapter-02.html | 102 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 102 insertions(+)
+ create mode 100644 chapter-02.html
+-----> No merge conflict
+
+=====> Running merge processing for file 'result/chapter-03.html'
+
+=====> Merging branch 'split-file_index.html_chapter-03.html' back into 'split-file_index.html'
+-----> Branch 'split-file_index.html_chapter-03.html' exists
+Merge made by the 'recursive' strategy.
+ chapter-03.html | 65 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 65 insertions(+)
+ create mode 100644 chapter-03.html
+-----> No merge conflict
+
+=====> Running merge processing for file 'result/chapter-04.html'
+
+=====> Merging branch 'split-file_index.html_chapter-04.html' back into 'split-file_index.html'
+-----> Branch 'split-file_index.html_chapter-04.html' exists
+Merge made by the 'recursive' strategy.
+ chapter-04.html | 84 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 84 insertions(+)
+ create mode 100644 chapter-04.html
+-----> No merge conflict
+
+=====> Running merge processing for file 'result/chapter-05.html'
+
+=====> Merging branch 'split-file_index.html_chapter-05.html' back into 'split-file_index.html'
+-----> Branch 'split-file_index.html_chapter-05.html' exists
+Merge made by the 'recursive' strategy.
+ chapter-05.html | 113 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 113 insertions(+)
+ create mode 100644 chapter-05.html
+-----> No merge conflict
+
+=====> Running merge processing for file 'result/chapter-06.html'
+
+=====> Merging branch 'split-file_index.html_chapter-06.html' back into 'split-file_index.html'
+-----> Branch 'split-file_index.html_chapter-06.html' exists
+Merge made by the 'recursive' strategy.
+ chapter-06.html | 204 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 204 insertions(+)
+ create mode 100644 chapter-06.html
+-----> No merge conflict
+
+=====> Running merge processing for file 'result/chapter-07.html'
+
+=====> Merging branch 'split-file_index.html_chapter-07.html' back into 'split-file_index.html'
+-----> Branch 'split-file_index.html_chapter-07.html' exists
+Merge made by the 'recursive' strategy.
+ chapter-07.html | 206 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 206 insertions(+)
+ create mode 100644 chapter-07.html
+-----> No merge conflict
+
+=====> Running merge processing for file 'result/chapter-08.html'
+
+=====> Merging branch 'split-file_index.html_chapter-08.html' back into 'split-file_index.html'
+-----> Branch 'split-file_index.html_chapter-08.html' exists
+Merge made by the 'recursive' strategy.
+ chapter-08.html | 200 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 200 insertions(+)
+ create mode 100644 chapter-08.html
+-----> No merge conflict
+
+=====> Running merge processing for file 'result/chapter-09.html'
+
+=====> Merging branch 'split-file_index.html_chapter-09.html' back into 'split-file_index.html'
+-----> Branch 'split-file_index.html_chapter-09.html' exists
+Merge made by the 'recursive' strategy.
+ chapter-09.html | 111 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 111 insertions(+)
+ create mode 100644 chapter-09.html
+-----> No merge conflict
+
+=====> Running merge processing for file 'result/chapter-10.html'
+
+=====> Merging branch 'split-file_index.html_chapter-10.html' back into 'split-file_index.html'
+-----> Branch 'split-file_index.html_chapter-10.html' exists
+Merge made by the 'recursive' strategy.
+ chapter-10.html | 142 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 142 insertions(+)
+ create mode 100644 chapter-10.html
+-----> No merge conflict
+
+=====> Skipping source file 'index.html'
+
+=====> All file-split branches have been merged into the main split branch
+
+=====> Running split process for source file 'index.html'
+-----> Switching to source branch
+-----> Nothing to do for DELETE as file has already been renamed.
+
+=====> Merging source branch 'split-file_index.html' into the root branch '01-starting-point'
+-----> Switching to root branch
+Removing index.html
+Merge made by the 'recursive' strategy.
+ chapter-01.html |  155 +++++++
+ chapter-02.html |  102 +++++
+ chapter-03.html |   65 +++
+ chapter-04.html |   84 ++++
+ chapter-05.html |  113 +++++
+ chapter-06.html |  204 +++++++++
+ chapter-07.html |  206 +++++++++
+ chapter-08.html |  200 +++++++++
+ chapter-09.html |  111 +++++
+ chapter-10.html |  142 ++++++
+ index.html      | 1301 -------------------------------------------------------
+ 11 files changed, 1382 insertions(+), 1301 deletions(-)
+ create mode 100644 chapter-01.html
+ create mode 100644 chapter-02.html
+ create mode 100644 chapter-03.html
+ create mode 100644 chapter-04.html
+ create mode 100644 chapter-05.html
+ create mode 100644 chapter-06.html
+ create mode 100644 chapter-07.html
+ create mode 100644 chapter-08.html
+ create mode 100644 chapter-09.html
+ create mode 100644 chapter-10.html
+ delete mode 100644 index.html
+
+-----> Removing all the split branches that were created
+Deleted branch split-file_index.html (was).
+Deleted branch split-file_index.html_chapter-01.html (was).
+Deleted branch split-file_index.html_chapter-02.html (was).
+Deleted branch split-file_index.html_chapter-03.html (was).
+Deleted branch split-file_index.html_chapter-04.html (was).
+Deleted branch split-file_index.html_chapter-05.html (was).
+Deleted branch split-file_index.html_chapter-06.html (was).
+Deleted branch split-file_index.html_chapter-07.html (was).
+Deleted branch split-file_index.html_chapter-08.html (was).
+Deleted branch split-file_index.html_chapter-09.html (was).
+Deleted branch split-file_index.html_chapter-10.html (was).
+Deleted branch split-file_index.html_index.html (was).
+# ================================================================================
+# Done.
